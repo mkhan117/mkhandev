@@ -1,7 +1,7 @@
 ---
 title: No featured image
 date: 2022-03-04T00:09:12.752Z
-author: MK
+author: Failed
 description: Testing with no image
 ---
 <!--StartFragment-->
