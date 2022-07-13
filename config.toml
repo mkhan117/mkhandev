@@ -28,7 +28,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
+    title = "Personal website of Mohammad Khan"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
