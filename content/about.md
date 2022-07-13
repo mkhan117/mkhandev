@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-<!-- author = "Mohammad" -->
+author = "Mohammad"
 +++
 
 # Hey there, my name is Mohammad.

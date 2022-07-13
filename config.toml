@@ -29,9 +29,9 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Personal website of Mohammad Khan"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
-    copyright = ""
+    subtitle = "Leadership, Agile, Cloud, Program Management, Engineering Management"
+    keywords = "leadership, agile, cloud, azure, program management, technical program management, engineering management, software development manager, sdm, em, scrum"
+    copyright = "Mohammad Khan"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
