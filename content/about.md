@@ -14,4 +14,4 @@ Ideally, I would have worked as a programmer while going to college, but it was 
 
 If you’d like to work with someone who is deeply passionate about technology, pushing for self and team growth, efficiency, and high impact feel free to email me: mkhan0104 at gmail dot com.
 
-##Motto: Never stop growing!
+## Motto: Never stop growing!
