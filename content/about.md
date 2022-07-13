@@ -1,6 +1,5 @@
 +++
 title = "About Me"
-date = "2022-07-11"
 author = "Mohammad"
 +++
 
