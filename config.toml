@@ -26,6 +26,8 @@ paginate = 5
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
 
+  googleAnalytics = 'G-XPHDX42PRG'
+
 [languages]
   [languages.en]
     title = "Personal website of Mohammad Khan"
