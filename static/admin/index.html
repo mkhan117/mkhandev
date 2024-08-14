@@ -7,8 +7,15 @@
     <!-- Include the script that enables Netlify Identity on this page. -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-    <!-- Google Analytics Add -->
-    {{ template "_internal/google_analytics.html" . }}
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR-GA-TRACKING-ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-XPHDX42PRG');
+    </script>
   </head>
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
